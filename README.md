@@ -1,0 +1,1 @@
+## SAP UI5 Activity Day 3: JavaScript
